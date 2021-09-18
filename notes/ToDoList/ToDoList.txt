@@ -1,0 +1,8 @@
+To Do:
+-
+-
+-
+-
+Finished:
+-Make sprite face direction of cursor 
+ not face direction of movement like before
